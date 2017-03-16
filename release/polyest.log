@@ -1,8 +1,0 @@
-﻿  main.cpp
-  Generating code
-  6 of 3698 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    4 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  polyest.vcxproj -> C:\Users\steve\Dropbox\Projects\dead\polyest_msvc\polyest\Release\polyest.exe
-  polyest.vcxproj -> C:\Users\steve\Dropbox\Projects\dead\polyest_msvc\polyest\Release\polyest.pdb (Full PDB)
