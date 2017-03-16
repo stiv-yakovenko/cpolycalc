@@ -1,0 +1,36 @@
+﻿  wolfram.cpp
+  util.cpp
+  tune.cpp
+  subst.cpp
+  stdafx.cpp
+  square.cpp
+  retired.cpp
+  Reduced.cpp
+c:\users\steve\dropbox\projects\dead\polyest_msvc\polyest\reduced.cpp(34): warning C4018: '<': signed/unsigned mismatch
+  quartic.cpp
+  print.cpp
+  poly34.cpp
+  parser.cpp
+  normalize.cpp
+  neighborhood.cpp
+  main.cpp
+  LPSolve.cpp
+  iterative.cpp
+  interval.cpp
+  inequations.cpp
+  gradient.cpp
+  Generating Code...
+  Compiling...
+  geom.cpp
+  evaluate.cpp
+  eigen.cpp
+  cubic.cpp
+  calc.cpp
+  algebra.cpp
+  2d.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  polyest.vcxproj -> C:\Users\steve\Dropbox\Projects\dead\polyest_msvc\polyest\Debug\polyest.exe
+  polyest.vcxproj -> C:\Users\steve\Dropbox\Projects\dead\polyest_msvc\polyest\Debug\polyest.pdb (Full PDB)
+  C:\Users\steve\Dropbox\Projects\dead\polyest_msvc\polyest\lpsolve\lpsolve55.dll
+  1 File(s) copied
